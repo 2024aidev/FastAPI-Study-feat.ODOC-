@@ -1,6 +1,6 @@
 ### `가상환경 설치 (python version:3.6+)`
 ```console
-$ python -m venv fastapi 
+$ python -m venv <가상환경이름>  
 ```
 ### `가상환경 실행`
 - mac
