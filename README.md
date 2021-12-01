@@ -32,3 +32,6 @@ $ command + c
 ```console
 $ deactivate
 ```
+
+### `폴더 설명`
+server2 : 간단하게 fastapi서버에서 데이터 불러오기 실습용
